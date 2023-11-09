@@ -2,7 +2,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import declarative_base, sessionmaker
 
 SQLALCHEMY_DATABASE_URL = (
-    "mssql+pyodbc://bedirhan:12345@(localdb)\MSSQLLocalDB/usersdb"
+    "mssql+pyodbc://yusufxxd:112211@ERTURK\SQLEXPRESS/admindb"
     "?driver=ODBC+Driver+17+for+SQL+Server"
 )
 
